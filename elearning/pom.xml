@@ -10,13 +10,7 @@
 
 	<name>elearning</name>
 	<description>elearning project for Yulia</description>
-
-	<repositories>
-		<repository>
-			<id>spring</id>
-			<url>https://maven.springframework.org/release/</url>
-		</repository>
-	</repositories>
+	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
